@@ -1,12 +1,13 @@
 FIPdb（Fungal Immunomodulatory Proteins Database）
 ==============
 ## Version: 1.0.0
-A total of 906 fungal immunomodulatory proteins were collected from the UniProt, Pfam and NR databases, which were reduced to 688 non-redundant proteins after deduplication.
+A total of 1005 fungal immunomodulatory proteins were collected from the UniProt, Pfam and NR databases, which were reduced to 739 non-redundant proteins after deduplication.
 
 Third-party
 -----------
 FIPdb includes some third-party software:
 * [diamond](https://github.com/bbuchfink/diamond)
+* [PF09259](https://www.ebi.ac.uk/interpro/entry/pfam/PF09259/logo/)
 
 Usage
 ------------
