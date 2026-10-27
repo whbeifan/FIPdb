@@ -9,6 +9,7 @@ FIPdb includes some third-party software:
 * [diamond](https://github.com/bbuchfink/diamond)
 * [hmmer](http://hmmer.org/)
 * [PF09259](https://www.ebi.ac.uk/interpro/entry/pfam/PF09259/logo/)
+* [PF07249](https://www.ebi.ac.uk/interpro/entry/pfam/PF07249/logo/)
 * [interpro](https://www.ebi.ac.uk/interpro/search/sequence/) #Annotation result verification
 
 
